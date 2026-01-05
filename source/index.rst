@@ -8,6 +8,10 @@
    :target: https://pypi.org/project/tiscope
 
 
+.. image:: _static/img/TISCOPE.png
+   :align: center
+   :alt: TISCOPE
+
 TISCOPE enables integrative and comparative analyses of spatial omics data to reveal condition-associated tissue modules
 ----------------
 

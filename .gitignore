@@ -1,8 +1,6 @@
 build/
 source/_templates/
 _source/
-_static/
-
 local/
 CLAUDE.md
 .claude/

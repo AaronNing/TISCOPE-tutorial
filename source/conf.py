@@ -59,4 +59,4 @@ html_context = dict(
 )
 html_static_path = ['_static']
 html_show_sphinx = False
-html_logo = '_static/img/TISCOPE.png'
+html_logo = '_static/img/logo_white.png'
