@@ -1,0 +1,7 @@
+sphinx>=1.4
+ipykernel
+nbsphinx>=0.4
+nbclean
+sphinx_rtd_theme
+sphinx_autodoc_typehints
+tiscope
