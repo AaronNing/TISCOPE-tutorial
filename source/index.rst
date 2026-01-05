@@ -11,7 +11,7 @@
 TISCOPE enables integrative and comparative analyses of spatial omics data to reveal condition-associated tissue modules
 ----------------
 
-**Contributors:** Yuzhe Li (Leader dev), Weixi Ning (dev)
+.. include:: contributors.rst
 
 .. role:: small
 .. role:: smaller
@@ -22,12 +22,3 @@ TISCOPE enables integrative and comparative analyses of spatial omics data to re
 
    tutorial/index
    installation
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
