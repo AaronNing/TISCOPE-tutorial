@@ -15,6 +15,8 @@
 TISCOPE enables integrative and comparative analyses of spatial omics data to reveal condition-associated tissue modules
 ----------------
 
+Tutorial for the [TISCOPE](https://github.com/zhangqf-lab/TISCOPE) package.
+
 .. include:: contributors.rst
 
 .. role:: small
