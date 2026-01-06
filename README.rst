@@ -1,7 +1,7 @@
 TISCOPE Tutorial
 ================
 
-This repository contains the tutorial documentation for [TISCOPE](https://github.com/zhangqf-lab/TISCOPE) package.
+This repository contains the tutorial documentation for `TISCOPE <https://github.com/zhangqf-lab/TISCOPE>`_ package.
 
 Build documentation locally::
 

@@ -1,4 +1,4 @@
 .. sidebar:: Contributors
 
-    * `Yuzhe Li`_: Leader Developer
-    * `Weixi Ning`_: Developer
+    * `Yuzhe Li <https://github.com/ericli0419>`_: Leader Developer
+    * `Weixi Ning <https://github.com/AaronNing>`_: Developer
